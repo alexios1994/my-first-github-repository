@@ -5,3 +5,5 @@ this file was modified localy
 this line was added in feature-2 branch
 
 another modification in the eature-2 branch
+
+edit in the deature-2 branch
